@@ -37,11 +37,11 @@
         margin-bottom: 10px;
         display: flex;
         align-items: center;
-        gap: 10px;
+        gap: 20px;
     }
 
     .h3 {
-        font-size: 14px;
+        font-size: 20px;
         margin-bottom: 30px;
         color: gray;
     }
